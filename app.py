@@ -1,5 +1,4 @@
 # Install Flask if not already installed
-!pip install Flask
 
 from flask import Flask, request, jsonify
 import joblib
